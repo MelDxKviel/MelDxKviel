@@ -5,6 +5,3 @@ I'm interested in Python, Django, Docker and Aiogram.
 My contacts:
 Telegram https://t.me/MelDxKviel
 E-mail mega1hack52@gmail.com
-
-
-https://www.codewars.com/users/MelDxKviel/badges/large
