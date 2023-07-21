@@ -1,6 +1,6 @@
 Hello, I'm backend developer from Russia.
 
-I'm interested in Python (Django, FastAPI), PostgreSQL, Linux and Docker.
+I'm interested in Python (Django, FastAPI), Go and Linux.
 
 My contacts:
 Telegram -- https://t.me/MelDxKviel
